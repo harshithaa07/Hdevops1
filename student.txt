@@ -3,8 +3,9 @@ USN : 4IK25CS065
 Subject : CDD
 Experiment : Git Operation
 
-name:ishani
-usn:4ik25cs070
-change by ISHANI
 
-updated by ishani
+Name:Hudha
+usn:4NI25CS067
+Sub:cdd
+
+changes commited by hudha
